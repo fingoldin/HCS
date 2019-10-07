@@ -25,5 +25,7 @@ I used a time-distributed fully connected layer followed by a simple Recurrent N
 The model outputted many funny and strange phrases, such as
 - "hello my name is programming"
 - "i love hot haikus"
+- "i get junk built"
+- "can graduated boys be roommates"
 
 When I gave it "i love" as a prompt, it consistently outputted "i love attention...". Perhaps it's trying to tell me something?
