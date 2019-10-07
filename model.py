@@ -24,7 +24,7 @@ input_size = output_size = nclasses
 tsteps = data.shape[0]-1
 
 # Prediction prompt
-pred_input = ["i","love"]
+pred_input = ["no","i"]
 pred_input_tsteps = len(pred_input)
 pred_output_tsteps = tsteps
 
